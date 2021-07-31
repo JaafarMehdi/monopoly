@@ -1,6 +1,6 @@
 # Disclosure:
 This is a fork of gamescomputersplay/monopoly.
-This version have changes from the original.
+This version differs from the original.
 
 # Intro:
 After watching the video What's the probability of an endless Monopoly game? (simulating 1.000.000 games in Python) [1] I wanted to ckeck the code. The original author didnt implement auctions witch seemed to me an important factor and I'm interested in checking how the results will be altered.
