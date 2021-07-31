@@ -20,3 +20,4 @@ After watching the video What's the probability of an endless Monopoly game? (si
   
 - [1] https://www.youtube.com/watch?v=Dx1ofZHGUtI
 - [2] https://www.youtube.com/watch?v=6EJrZeN0jNI
+- [3] Stand-up Maths - The Mathematics of Winning Monopoly - https://www.youtube.com/watch?v=ubQXz5RBBtU&t=189s
